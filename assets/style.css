@@ -2,13 +2,12 @@
 
 :root{
   --text-color: #000000;
-  --card-front-color: #b3d616;
-  --card-back-color:  #d6ec11;
-;
+  --card-front-color: #51BBA9;
+  --card-back-color: #51BBA9;
 }
 
 body {
-  background: url(img/bg-desktop-blue.webp);
+  background: url(img/imagem.jpg);
   font-family: Handjet;
 }
 .cartao__conteudo {
